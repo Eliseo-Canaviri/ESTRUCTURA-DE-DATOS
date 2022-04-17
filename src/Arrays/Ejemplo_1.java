@@ -17,6 +17,6 @@ public class Ejemplo_1 {
             num[i] = i + 1;
             System.out.print("[ " + num[i] + " ]");
         }
-        System.out.println("\n");
+        System.out.println("\n");///salto de linea
     }
 }
