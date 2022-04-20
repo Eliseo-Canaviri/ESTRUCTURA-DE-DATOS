@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+
  */
 package Arrays;
 
@@ -16,9 +14,9 @@ public class Ejemplo_4 {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        System.out.println("ingrese en tañamo de array");
+        System.out.println("ingrese en tañamo de array"); // ingresamos el tamaño de nuestro arreglo
         int tam;
-        tam = entrada.nextInt();
+        tam = entrada.nextInt();//
         int A[] = new int[tam];
 
         System.out.println("ingrese los datos");
